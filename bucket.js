@@ -1,5 +1,6 @@
 //this is the code to move the bullet catcher or "bucket"; it's very similar to the playerShip.js code
 #pragma strict
+//edit this shiz
 var speed:float = 8.0;
 var there:boolean = false;
 var xPos:float;
